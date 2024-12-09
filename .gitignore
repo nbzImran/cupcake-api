@@ -1,0 +1,37 @@
+# Byte-compiled / optimized / DLL files
+*.py[cod]
+__pycache__/
+*.pyo
+
+# Virtual Environment
+venv/
+ENV/
+env/
+
+# Flask instance folder
+instance/
+
+# Flask session files
+*.session
+
+# Pytest cache
+.pytest_cache/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and databases
+*.log
+*.sqlite3
+*.db
+
+# Environment variables
+.env
+*.env
+
+# IDE settings
+.vscode/
+.idea/
+
+# MacOS system files
+.DS_Store
